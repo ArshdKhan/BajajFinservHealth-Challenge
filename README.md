@@ -272,7 +272,7 @@ java -jar target/bajaj-finserv-health-challenge.jar
 ## 👨‍💻 Author
 
 **A Arshad Khan**
-- Registration: PES2UG22CS001
+- Registration Number (SRN): PES2UG22CS001
 - Email: arshadkhan672004@gmail.com
 
 ---
